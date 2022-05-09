@@ -3,5 +3,4 @@
 members = [
     "esi",
     "esi_example_app",
-    "bench/esi_delay_tester",
 ]
